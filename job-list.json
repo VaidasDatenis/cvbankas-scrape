@@ -1,0 +1,513 @@
+[
+    {
+        "title": "Administratorius (-ė) - registratorius (-ė)",
+        "company": "UAB Sveikatos centras „Energetikas“",
+        "salary": "550-650",
+        "location": "Palangoje",
+        "address": "Kuršių takas 1, LT-00317 Palanga"
+    },
+    {
+        "title": "Betonuotojas (-a)",
+        "company": "UAB „Projektana“",
+        "salary": "1000-1300",
+        "location": "Kaune",
+        "address": "Chemijos g. 23D, LT-51331 Kaunas"
+    },
+    {
+        "title": "Web applications developer (TypeScript)",
+        "company": "UAB „iGeolise LT“",
+        "salary": "2500-4000",
+        "location": "Kaune",
+        "address": "Karaimų g. 3-8, LT-08118 Vilnius"
+    },
+    {
+        "title": "Vaistinės vedėja (-as) - farmacinės veiklos vadovė (-as)",
+        "company": "UAB Vaistinė „Esra“",
+        "salary": "1400-1600",
+        "location": "Panevėžyje",
+        "address": "Darželio g. 10, LT-76307 Šiauliai"
+    },
+    {
+        "title": "Vyresnysis darbuotojų saugos ir sveikatos specialistas",
+        "company": "UAB „Juodeliai“",
+        "salary": "1593-2469",
+        "location": "Marijampolėje",
+        "address": "Vasario 16-osios g. 4-1, LT-68300 Marijampolė"
+    },
+    {
+        "title": "Prisijunkite prie pardavimų komandos!",
+        "company": "AB „LIETUVOS DRAUDIMAS“",
+        "salary": "640-1100",
+        "location": "Vilniuje",
+        "address": "J. Basanavičiaus g. 12, LT-03224 Vilnius"
+    },
+    {
+        "title": "APTARNAVIMO SPECAS(-Ė) RAŠTU (ANGLŲ KALBA) KAUNE",
+        "company": "UAB „Planas chuliganas“",
+        "salary": "650-750",
+        "location": "Kaune",
+        "address": "Žemaitės g. 21-101, LT-03118 Vilnius"
+    },
+    {
+        "title": "Pardavimų vadybininkas (-ė)",
+        "company": "UAB „Rekvizitai“",
+        "salary": "610-5000",
+        "location": "Vilniuje",
+        "address": "Kalvarijų g. 300, LT-08318 Vilnius"
+    },
+    {
+        "title": "EKSPORTO VADYBININKAS",
+        "company": "UAB „DANVITA“",
+        "salary": "Nuo 1700",
+        "location": "Kaune",
+        "address": "P. Širvio g. 3A, LT-32124 Zarasai"
+    },
+    {
+        "title": "Vadybininkas - technologas",
+        "company": "UAB „LT AQUA“",
+        "salary": "700-1500",
+        "location": "Vilniuje",
+        "address": "Ukmergės g. 298A, LT-01101 Vilnius"
+    },
+    {
+        "title": "Social Media Content Manager",
+        "company": "UAB „Pixelmator Team“",
+        "salary": "1250-1600",
+        "location": "Vilniuje",
+        "address": "J. Kubiliaus g. 6-1, LT-08234 Vilnius"
+    },
+    {
+        "title": "Automobių priežiūros, plovimo specialistas",
+        "company": "MB „Valymo technologijos“",
+        "salary": "600-1000",
+        "location": "Kaune",
+        "address": "Mėnulio g. 23, Radikiai, LT-54347 Kauno r."
+    },
+    {
+        "title": "Parduotuvės vedėja (-as)",
+        "company": "UAB „Ageseta“",
+        "salary": "800-1500",
+        "location": "Kaune",
+        "address": "Varpo g. 28A, LT-76241 Šiauliai"
+    },
+    {
+        "title": "Pardavėjas - konsultantas",
+        "company": "UAB „AUKSO STILIUS“",
+        "salary": "800-1300",
+        "location": "Vilniuje",
+        "address": "Ozo g. 25, Talino al. 010, LT-07150 Vilnius"
+    },
+    {
+        "title": "Darbuotojų saugos ir sveikatos specialistas (-ė)",
+        "company": "UAB „INFES“",
+        "salary": "1100-1500",
+        "location": "Vilniuje",
+        "address": "Žirmūnų g. 27, LT-09105 Vilnius"
+    },
+    {
+        "title": "JAVA DEVELOPER (MID-level)",
+        "company": "UAB „Click2Sell“",
+        "salary": "3000-5500",
+        "location": "Vilniuje",
+        "address": "Saulėtekio al. 15, LT-10224 Vilnius"
+    },
+    {
+        "title": "Tekintojas",
+        "company": "UAB „ABEPA“",
+        "salary": "Nuo 900",
+        "location": "Kaune",
+        "address": "Vokiečių g. 187, LT-45251 Kaunas"
+    },
+    {
+        "title": "STIUARDESĖ (-AS) TARPTAUTINIAMS AUTOBUSŲ REISAMS VISOMIS KRYPTIMIS (rusų/anglų kalbos)!",
+        "company": "UAB „Transinesta“ ECOLINES",
+        "salary": "Nuo 850",
+        "location": "Vilniuje",
+        "address": "Vytauto pr. 23, LT-44352 Kaunas"
+    },
+    {
+        "title": "Technikas - Sandėlininkas",
+        "company": "UAB „LT AQUA“",
+        "salary": "750-1000",
+        "location": "Vilniuje",
+        "address": "Ukmergės g. 298A, LT-01101 Vilnius"
+    },
+    {
+        "title": "Purchasing coordinator",
+        "company": "AB „DFDS Seaways“",
+        "salary": "2000-2300",
+        "location": "Klaipėdoje",
+        "address": "Šaulių g. 19, LT-92233 Klaipėda"
+    },
+    {
+        "title": "Autošaltkalvis (-ė) - mechanikas (-ė)",
+        "company": "UAB „Armavista“",
+        "salary": "700-1000",
+        "location": "Vilniuje",
+        "address": "Meistrų g. 10, LT-02189 Vilnius"
+    },
+    {
+        "title": "Operatorius (-ė)",
+        "company": "UAB „Nordic Idea“",
+        "salary": "Nuo 1155",
+        "location": "Kaune",
+        "address": "Vasario 16-osios g. 38, Garliava, LT-53274 Kauno r."
+    },
+    {
+        "title": "SPRENDIMŲ KLIENTUI SPECIALISTĄ (-Ę) VILNIAUS Akropolyje arba OZE",
+        "company": "UAB „MTTC“",
+        "salary": "740-1200",
+        "location": "Vilniuje",
+        "address": "Veterinarų g. 44, Biruliškės, LT-54469 Kauno r."
+    },
+    {
+        "title": "Ekspedicijos Vadybininkas (-ė) (daliniai kroviniai)",
+        "company": "UAB „Delamode Baltics“",
+        "salary": "1200-2200",
+        "location": "Vilniuje",
+        "address": "Eigulių g. 2, LT-03150 Vilnius"
+    },
+    {
+        "title": "Įrengimų priežiūros inžinierius",
+        "company": "UAB „Schmitz Cargobull Baltic“",
+        "salary": "1000-1300",
+        "location": "Panevėžyje",
+        "address": "Pramonės g. 7, LT-35289 Panevėžys"
+    },
+    {
+        "title": "Vadybininkas (-ė)",
+        "company": "UAB „Novameta“",
+        "salary": "800-1150",
+        "location": "Kaune",
+        "address": "Ateities pl. 39, LT-52119 Kaunas"
+    },
+    {
+        "title": "B2B KEY ACCOUNT MANAGER (German speaker)",
+        "company": "UAB „BALTIC VIRTUAL ASSISTANTS“",
+        "salary": "1000-1100",
+        "location": "Vilniuje",
+        "address": "J. Savickio g. 4, LT-01108 Vilnius"
+    },
+    {
+        "title": "SANDĖLININKAS (-Ė), Raudondvario pl.",
+        "company": "UAB „MAKVEŽA“",
+        "salary": "Nuo 860",
+        "location": "Kaune",
+        "address": "Keleriškiai, Kėdainių r."
+    },
+    {
+        "title": "Serviso inžinierius (-ė)",
+        "company": "UAB „Novameta“",
+        "salary": "1000-1350",
+        "location": "Kaune",
+        "address": "Ateities pl. 39, LT-52119 Kaunas"
+    },
+    {
+        "title": "Pardavimų vadybininkas (-ė) salone",
+        "company": "UAB „Cgates“",
+        "salary": "Nuo 600",
+        "location": "Vilniuje",
+        "address": "Ukmergės g. 120, LT-08105 Vilnius"
+    },
+    {
+        "title": "Logistics Coordinator (French language)",
+        "company": "UAB „Transcom Worldwide Vilnius“",
+        "salary": "845-1063",
+        "location": "Vilniuje",
+        "address": "Žirmūnų g. 139, LT-09120 Vilnius"
+    },
+    {
+        "title": "Klientų aptarnavimo specialistas (-ė)",
+        "company": "UAB „Bagfactory“",
+        "salary": "Nuo 800",
+        "location": "Vilniuje",
+        "address": "Šiaurės g. 37, (Važiuoti Palydovo gatve), LT-11107 Vilnius"
+    },
+    {
+        "title": "Web developer (mid-level)",
+        "company": "UAB „Nordcode technology“",
+        "salary": "Nuo 2000",
+        "location": "Vilniuje",
+        "address": "A.Juozapavičiaus 6-2 a., LT-09310 Vilnius"
+    },
+    {
+        "title": "Laivo virėjas - laivo virėjo padėjėjas",
+        "company": "AB DFDS Seaways",
+        "salary": "Nuo 1547",
+        "location": "Klaipėdoje",
+        "address": "Šaulių g. 19, LT-92233 Klaipėda"
+    },
+    {
+        "title": "Kambarinė",
+        "company": "AB DFDS Seaways",
+        "salary": "Nuo 1424",
+        "location": "Klaipėdoje",
+        "address": "Šaulių g. 19, LT-92233 Klaipėda"
+    },
+    {
+        "title": "Barmenas - padavėjas",
+        "company": "AB DFDS Seaways",
+        "salary": "Nuo 1424",
+        "location": "Klaipėdoje",
+        "address": "Šaulių g. 19, LT-92233 Klaipėda"
+    },
+    {
+        "title": "Technikas - elektrikas serviso skyriuje",
+        "company": "UAB „Automatikos sistemos“",
+        "salary": "Nuo 1500",
+        "location": "Panevėžyje",
+        "address": "Pušaloto g. 108A, LT-35101 Panevėžys"
+    },
+    {
+        "title": "Elektrotechnikas-automatikas",
+        "company": "UAB „Paradis“",
+        "salary": "700-1400",
+        "location": "Kaune",
+        "address": "Draugystės g. 19, LT-51230 Kaunas"
+    },
+    {
+        "title": "Buhalterio (-ės) pavaduotojas (-a)",
+        "company": "UAB „LPP LITHUANIA“",
+        "salary": "1200-1600",
+        "location": "Vilniuje",
+        "address": "Laisvės pr. 125, 2 aukštas, LT-06118 Vilnius"
+    },
+    {
+        "title": "Linux sistemų administratorius",
+        "company": "UAB „Interneto vizija“",
+        "salary": "2000-3500",
+        "location": "Vilniuje",
+        "address": "Kubiliaus g. 6, LT-08234 Vilnius"
+    },
+    {
+        "title": "Accountant",
+        "company": "UAB „BALTIC VIRTUAL ASSISTANTS“",
+        "salary": "1300-2400",
+        "location": "Vilniuje",
+        "address": "J. Savickio g. 4, LT-01108 Vilnius"
+    },
+    {
+        "title": "Ekspedicijos vadybininkas Skandinavija (pilni - daliniai kroviniai vilkikai ir tentiniai mikroautobusai)",
+        "company": "UAB „Skandinavijos kelias“",
+        "salary": "1200-1900",
+        "location": "Kaune",
+        "address": "Žolynų g. 22, Ražių k., LT-54340 Kauno r."
+    },
+    {
+        "title": "TV žaidimų vedėja (-as)",
+        "company": "UAB „TV ŽAIDIMAI“",
+        "salary": "600-1500",
+        "location": "Vilniuje",
+        "address": "Saltoniškių g. 9, LT-08105 Vilnius"
+    },
+    {
+        "title": "Taksi vairuotojas (-a)",
+        "company": "UAB „Lestra“",
+        "salary": "500-1400",
+        "location": "Vilniuje",
+        "address": "Buivydiškių g. 16-15, LT-07195 Vilnius"
+    },
+    {
+        "title": "SANDĖLIO DARBUOTOJAS (-A)",
+        "company": "UAB „Lidl Lietuva“",
+        "salary": "1021-1200",
+        "location": "Kaune",
+        "address": "Viršuliškių skg. 34-1, LT-05132 Vilnius"
+    },
+    {
+        "title": "Gamybos darbuotojas (2 pamainos)",
+        "company": "UAB „Novameta“",
+        "salary": "700-900",
+        "location": "Kaune",
+        "address": "Ateities pl. 39, LT-52119 Kaunas"
+    },
+    {
+        "title": "Marketing content copywriter",
+        "company": "UAB „Agile Tech“",
+        "salary": "700-900",
+        "location": "Vilniuje",
+        "address": "T. Kosciuškos g. 24-19, LT-01100 Vilnius"
+    },
+    {
+        "title": "Prestižinio būsto jaunesnysis brokeris (-ė) su garantuota bazine alga",
+        "company": "UAB „Rebaltic“",
+        "salary": "1000-3500",
+        "location": "Vilniuje",
+        "address": "Šv. Ignoto g. 1, LT-01144 Vilnius"
+    },
+    {
+        "title": "Inžinierius - konstruktorius (-Ė)",
+        "company": "UAB „Schmitz Cargobull Baltic“",
+        "salary": "1000-1300",
+        "location": "Panevėžyje",
+        "address": "Pramonės g. 7, LT-35289 Panevėžys"
+    },
+    {
+        "title": "Pardavimų vadybininkas (-ė)",
+        "company": "UAB „Rekvizitai“",
+        "salary": "610-5000",
+        "location": "Kaune",
+        "address": "Kalvarijų g. 300, LT-08318 Vilnius"
+    },
+    {
+        "title": "Software Engineer (.NET/C#)",
+        "company": "UAB „ICYBIT“",
+        "salary": "2600-5200",
+        "location": "Kaune",
+        "address": "Savanorių pr. 321C, LT-50120 Kaunas"
+    },
+    {
+        "title": "Krupjė (Vilniuje renkama nauja grupė, be patirties apmokome)",
+        "company": "UAB „OLYMPIC CASINO GROUP BALTIJA“",
+        "salary": "Nuo 700",
+        "location": "Vilniuje",
+        "address": "Konstitucijos pr. 12, LT-09308 Vilnius"
+    },
+    {
+        "title": "Accountant",
+        "company": "Biomapas, UAB",
+        "salary": "1000-1400",
+        "location": "Kaune",
+        "address": "Savanorių pr. 109, LT-44208 Kaunas"
+    },
+    {
+        "title": "VIDEO ŽAIDIMŲ PROGRAMUOTOJAS (-A)",
+        "company": "UAB „Nordcurrent Group“",
+        "salary": "1500-2500",
+        "location": "Vilniuje",
+        "address": "Savanorių pr. 61, LT-03149 Vilnius"
+    },
+    {
+        "title": "Administratorius lošimo automatų salone Vilniuje",
+        "company": "UAB „Tete-a-tete“ kazino",
+        "salary": "600-700",
+        "location": "Vilniuje",
+        "address": "Gedimino g. 26B, LT-44319 Kaunas"
+    },
+    {
+        "title": "Chief Accountant - Controller",
+        "company": "UAB Antler Group",
+        "salary": "Nuo 2500",
+        "location": "Vilniuje",
+        "address": "V. Nagevičiaus g. 3, LT-08237 Vilnius"
+    },
+    {
+        "title": "Maitinimo padalinio vadovas (-ė)",
+        "company": "UAB Sveikatos centras „Energetikas“",
+        "salary": "1000-1200",
+        "location": "Palangoje",
+        "address": "Kuršių takas 1, LT-00317 Palanga"
+    },
+    {
+        "title": "PARDAVIMŲ ASISTENTĖS (-O) VILNIUJE (logistika) - PATIRTIS NEBŪTINA!",
+        "company": "UAB „Baltic Solutions Transport“",
+        "salary": "Nuo 700",
+        "location": "Vilniuje",
+        "address": "Smolensko g. 10, C, LT-03201 Vilnius"
+    },
+    {
+        "title": "Sandėlininkas (naudotos auto dalys)",
+        "company": "UAB „Greitos dalys“",
+        "salary": "850-950",
+        "location": "Vilniuje",
+        "address": "Sandėlių g. 36, LT-02248 Vilnius"
+    },
+    {
+        "title": "Vadybininkas darbui su klientais (lenkų kalba)",
+        "company": "UAB „Neraka“",
+        "salary": "940",
+        "location": "Vilniuje",
+        "address": "Savanorių pr. 176D, LT-03154 Vilnius"
+    },
+    {
+        "title": "Aktyvus vadybininkas (-ė)",
+        "company": "UAB „BnP Finance“",
+        "salary": "500-1500",
+        "location": "Vilniuje",
+        "address": "Žalgirio g. 90, LT-09303 Vilnius"
+    },
+    {
+        "title": "DUOMENŲ INTEGRAVIMO PROGRAMUOTOJAS (-A) (Darbas su MS Power BI)",
+        "company": "UAB „Finansų analizės ir valdymo sprendimai“",
+        "salary": "1300-1600",
+        "location": "Vilniuje",
+        "address": "Ulonų g. 5, LT-08240 Vilnius"
+    },
+    {
+        "title": "Apskaitininkė (-as) puse etato",
+        "company": "UAB „Future retail“",
+        "salary": "Nuo 400",
+        "location": "Kaune",
+        "address": "P. Vileišio g. 17A, LT-10306 Vilnius"
+    },
+    {
+        "title": "Junior projektų vadovas",
+        "company": "UAB „Nordcode technology“",
+        "salary": "Nuo 900",
+        "location": "Vilniuje",
+        "address": "A.Juozapavičiaus 6-2 a., LT-09310 Vilnius"
+    },
+    {
+        "title": "Šaltkalvis (-ė) - surinkėjas (-a)",
+        "company": "AB „VILMA“",
+        "salary": "600-800",
+        "location": "Vilniuje",
+        "address": "Žirmūnų g. 68, LT-09124 Vilnius"
+    },
+    {
+        "title": "TERMINALO OPERATORIUS (-Ė) (Terminalo g. 10)",
+        "company": "UAB „Itella Logistics“",
+        "salary": "550-700",
+        "location": "Kaune",
+        "address": "Pirklių g. 5, LT-02300 Vilnius"
+    },
+    {
+        "title": "Part-Time Commercial Analyst (Swedish)",
+        "company": "UAB „BALTIC VIRTUAL ASSISTANTS“",
+        "salary": "400-500",
+        "location": "Vilniuje",
+        "address": "J. Savickio g. 4, LT-01108 Vilnius"
+    },
+    {
+        "title": "AUTOMECHANIKAS (-Ė)",
+        "company": "UAB „MELGA“",
+        "salary": "Nuo 1000",
+        "location": "Vilniuje",
+        "address": "Savanorių pr. 151A, LT-03150 Vilnius"
+    },
+    {
+        "title": "Taksi vairuotojas",
+        "company": "UAB „Amber Vilnius“",
+        "salary": "Nuo 650",
+        "location": "Vilniuje",
+        "address": "Elniakampio g. 6-8, LT-10100 Vilnius"
+    },
+    {
+        "title": "Pardavėja (-s) – konsultantė (-as) VILNIUJE",
+        "company": "UAB „STAR GROUP“",
+        "salary": "Nuo 620",
+        "location": "Vilniuje",
+        "address": "Draugystės g. 19, LT-51230 Kaunas"
+    },
+    {
+        "title": "Customer Advisor (Spanish)",
+        "company": "UAB „BALTIC VIRTUAL ASSISTANTS“",
+        "salary": "Nuo 600",
+        "location": "Vilniuje",
+        "address": "J. Savickio g. 4, LT-01108 Vilnius"
+    },
+    {
+        "title": "Elektromechanikas",
+        "company": "UAB „Vilniaus pakuotė“",
+        "salary": "Nuo 900",
+        "location": "Vilniuje",
+        "address": "Savanorių pr. 219A, LT-02300 Vilnius"
+    },
+    {
+        "title": "PRACOWNIK DZIAŁU OBSŁUGI KLIENTA",
+        "company": "UAB „RanIT“",
+        "salary": "600-2000",
+        "location": "Vilniuje",
+        "address": "Ukmergės g. 220, LT-07157 Vilnius"
+    }
+]
