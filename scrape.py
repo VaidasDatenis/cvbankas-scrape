@@ -21,7 +21,7 @@ def removeUnnessery(var):
     var = ' '.join(final_list)
     return var
 
-for num in range(1, 2):
+for num in range(1, 3):
     page = str(num)
     url = "https://www.cvbankas.lt/?page="+page
     print(url)
@@ -38,11 +38,15 @@ for num in range(1, 2):
             location_elem = job_elem.find('span', class_='list_city')
 
             address = job_elem.find('a', class_="list_a can_visited list_a_has_logo", href=True)
+            job_url = address['href']
             request_address = requests.get(address['href'])
             soup2 = BeautifulSoup(request_address.text, 'html.parser')
             job_address = soup2.find('a', class_='partners_company_info_additional_info_location_url')
 
-            if None in (title_elem, company_elem, salary_elem, location_elem, job_address):
+            em = soup2.find('div', id="jobad_content")
+            email = re.findall(r"[a-z0-9\.\-+_]+@[a-z0-9\.\-+_]+\.", em.text, re.I)
+
+            if None in (title_elem, company_elem, salary_elem, location_elem, job_address, job_url, email):
                 continue
             title = title_elem.text.strip()
             company = company_elem.text.strip()
@@ -50,16 +54,19 @@ for num in range(1, 2):
             location = location_elem.text.strip()
             city_location = job_address.get_text()
             removeUnnessery(salary)
+
             data.append(
                 {
                     "title": title, 
                     "company": company, 
                     "salary": salary, 
                     "location": location, 
-                    "address": city_location
+                    "address": city_location,
+                    "email": email,
+                    "url": job_url
                 }
             )
-            
+               
 for job in data:
     result = firebase.post('/jobs', job)
     print(result)
